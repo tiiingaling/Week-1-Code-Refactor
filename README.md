@@ -7,3 +7,4 @@ This week's challenge was to refactor the provided code in order to make it more
 ![my completed version of the webpage, with the header navigation links and header image, cards with text and images at bottom and side](./Assets/screenshot.jpg)
 
 ##  Link to completed challenge
+https://tiiingaling.github.io/Week-1-Code-Refactor/ 
